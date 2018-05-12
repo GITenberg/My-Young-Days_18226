@@ -21,6 +21,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18226#My-Young-Days
 gutenberg_issued: '2006-04-22'
 gutenberg_type: Text
 identifiers:
